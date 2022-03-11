@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(235, 235, 235);
+}
+
+main {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+
+
+}
+
+main .corps {
+    border: .5px solid rgba(128, 128, 128, 0.281);
+    width: 350px;
+    height: 600px;
+    border-radius: 7px;
+   
+
+}
